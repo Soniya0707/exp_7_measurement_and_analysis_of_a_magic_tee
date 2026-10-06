@@ -66,9 +66,8 @@ A magic tee is normally characterised by two quantities:
 3. Measure the values from the VSWR meter for E-Arm and H-Arm as input port.
 
 ## Observation (Measurement of isolation between E and H arms)
-<img width="1061" height="402" alt="image" src="https://github.com/user-attachments/assets/ce5ec1fe-2dd9-4097-ac12-1cd7daaf2d9d" />
-<img width="1057" height="870" alt="image" src="https://github.com/user-attachments/assets/0b2717c4-498d-4a24-9323-2b6873f5e662" />
-<img width="1055" height="746" alt="image" src="https://github.com/user-attachments/assets/2932dc23-1f4e-4bad-aea1-bd03acab14cd" />
+
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/68297f65-c1c0-405b-b26b-df6ae28863c8" />
 
 ## Precautions
 
@@ -78,4 +77,4 @@ A magic tee is normally characterised by two quantities:
 
 ## Conclusion
 
- thus the experiment is verified.
+The Magic Tee was studied successfully and its working principle was understood. It combines the properties of E-plane and H-plane tees and provides isolation between the two input arms. The experiment demonstrates the use of Magic Tee as a microwave power divider/combiner and for signal isolation and impedance matching in microwave systems.
